@@ -22,3 +22,6 @@ AltStore Beta - Sideload every iPA - **[Releases](https://github.com/Thunder7yos
 - **[Thunder7yoshi](https://twitter.com/Thunder7yoshi)**
 - **[CrafterPika](https://twitter.com/CrafterPika)**
 - **[Riley Testut](https://twitter.com/rileytestut)**
+
+# Copright notice
+AltStore is made my @rileytestut and its source code can be found [https://github.com/rileytestut/AltStore](here).
