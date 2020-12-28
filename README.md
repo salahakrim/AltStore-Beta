@@ -5,12 +5,12 @@ AltStore Beta - Sideload every iPA - **[Releases](https://github.com/Thunder7yos
 - If you need help join our **[Discord Server!](https://discord.gg/kzPPbsw)**
 
 # Windows 10 - Before Installing:
-- Download the latest version of iTunes directly from **[Apple](https://github.com/Thunder7yoshi/Files/raw/master/Apple/iTunes64Setup.exe)** (not the Microsoft Store).
-- Download the latest version of iCloud directly from **[Apple](https://github.com/Thunder7yoshi/Files/raw/master/Apple/iCloudSetup.exe)** (not the Microsoft Store).
+- Download the latest version of iTunes directly from **[Apple](https://thunder7yoshi.github.io/Apple/iTunes)** (not the Microsoft Store).
+- Download the latest version of iCloud directly from **[Apple](https://thunder7yoshi.github.io/Apple/iCloud)** (not the Microsoft Store).
 # Installing
-- Download the AltServer Beta from **[here](https://github.com/Thunder7yoshi/AltStore-Beta/releases/latest)**
+- Download AltServer Beta from **[here](https://github.com/Thunder7yoshi/AltStore-Beta/releases/latest)**
 - Extract the archive.
-- Launch AltServer BETA by double-clicking on "**AltServerBETA.exe**" in /AltServer BETA folder
+- Launch AltServer by double-clicking on "**AltServer.exe**" in "AltServerBETA" folder
   (it will appear as an icon in the **Notification Area**).
 - Trust your iPhone with your computer (if needed).
 - Open **iTunes** and enable iTunes Wi-Fi sync for your phone.
