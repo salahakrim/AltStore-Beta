@@ -19,10 +19,10 @@ AltStore Beta - Sideload every iPA - **[Releases](https://github.com/Thunder7yos
 - Wait a few seconds, then AltStore will be installed to your phone.
 ![](https://i.imgur.com/ItyPORZ.png)
 # Credits
+- **[Riley Testut](https://twitter.com/rileytestut)**
 - **[Thunder7yoshi](https://twitter.com/Thunder7yoshi)**
 - **[CrafterPika](https://twitter.com/CrafterPika)**
-- **[Riley Testut](https://twitter.com/rileytestut)**
 
 # Copyright notice
-AltStore and AltServer are properties of [Riley Testut](https://twitter.com/rileytestut).
-These softwares are licensed under [AGPL-3.0](https://github.com/rileytestut/AltStore/blob/master/LICENSE), the source code can be found [here](https://github.com/rileytestut/AltStore.git).
+- AltStore and AltServer are properties of [Riley Testut](https://twitter.com/rileytestut).
+- These softwares are licensed under [AGPL-3.0](https://github.com/rileytestut/AltStore/blob/master/LICENSE), their source code can be found [here](https://github.com/rileytestut/AltStore.git).
