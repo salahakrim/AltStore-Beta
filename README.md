@@ -23,5 +23,6 @@ AltStore Beta - Sideload every iPA - **[Releases](https://github.com/Thunder7yos
 - **[CrafterPika](https://twitter.com/CrafterPika)**
 - **[Riley Testut](https://twitter.com/rileytestut)**
 
-# Copright notice
-AltStore is by [Riley Testut](https://twitter.com/rileytestut), is licensed under AGPL-3.0 and you can find the source code [here](https://github.com/rileytestut/AltStore/blob/master/LICENSE).
+# Copyright notice
+AltStore and AltServer are properties of [Riley Testut](https://twitter.com/rileytestut).
+These softwares are licensed under [AGPL-3.0](https://github.com/rileytestut/AltStore/blob/master/LICENSE), the source code can be found [here](https://github.com/rileytestut/AltStore.git).
